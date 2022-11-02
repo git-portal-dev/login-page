@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  padding: 5rem 5rem;
+}
+
+.form{
+  margin: 10px;
+}
+.form label{
+  margin: 10px;
+}
+
+.form p{
+  margin: 5px;
+  color: red;
+}
