@@ -14,7 +14,7 @@ This simple login page is built with Reactjs. you can learn the following area f
 1. clone the project
 
 ```shell
-$git clone https://
+$git clone https://github.com/gitportal-dev/login-page.git
 ```
 2. go to the project folder
 ```shell
