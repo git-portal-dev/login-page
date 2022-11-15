@@ -7,7 +7,7 @@ This simple login page is built with Reactjs. you can learn the following area f
 3. field validation with custom error message display
 
 
-> [read more details about this project](#) 
+> [read more details about this project](https://gitportal.dev/blog/Simple-login-page-with-React-JS) 
 
 ## setup project in locally
 
